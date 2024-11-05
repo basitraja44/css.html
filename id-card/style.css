@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #3B1E54;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.card{
+    width:400px;
+    height:500px;
+    border-radius:12px;
+    background-color:#7AB2D3;
+}
+.imn{
+    margin-top: 2em;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+   
+}
+
+.imn img{
+    border-radius: 50px;
+    height: 100px;
+    width: 100px;
+  
+}
+.h1{
+    margin: 100px;
+    display: flex;
+    justify-content: end;
+}
+.container2{
+    margin: 100px;
+    display: flex;
+    justify-content: end;
+}
+    .form{
+        margin-top: 50%;
+        padding: 15px;
+        color: black;
+
+        
+        background-color: aqua;
+    }
